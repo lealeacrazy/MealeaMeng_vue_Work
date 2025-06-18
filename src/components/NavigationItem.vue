@@ -3,7 +3,7 @@
     <span class="material-symbols-outlined"> {{item.icon}} </span>
     <span>{{item.label}}</span>
   </router-link>
-</template>Add commentMore actions
+</template>
 
 <script setup>
     defineProps(['item'])
